@@ -3,6 +3,7 @@ NoNonsense Forum v24 © Copyright (CC-BY) Kroc Camen 2010-2013
 A simple forum that focuses on discussion and simplicity.
 http://camendesign.com/nononsense_forum
 
+This is a test version.
 
 How NoNonsense differs from other forums:
 ------------------------------------------------------------------------
